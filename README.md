@@ -37,7 +37,7 @@ I turned this project into a reel! Check it out here: [https://www.instagram.com
 ---
 
 ## 🧑‍💻 **How to Use This Project**  
-Want to surprise your crush or someone special? Here’s how you can use this project:  
+Want to surprise your my potti or someone special? Here’s how you can use this project:  
 
 1. **Clone the Repository**:  
    ```bash
